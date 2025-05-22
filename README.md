@@ -34,10 +34,7 @@ Results show the most profitable movies are of the genre Action and Adventure. M
 |---presentation.pdf ----------------> PDF of presentation slides<br>
 |---github.pdf ----------------------> PDF of this github page<br>
 
-## Vizualzations
-https://public.tableau.com/views/OriginandDestination_17387251836450/OriginandDestination?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-https://public.tableau.com/views/newacsa/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Presentation
 
 ## Images
 Combined Normalized Flight Saftey and Emmissions Ratings
