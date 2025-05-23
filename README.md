@@ -26,15 +26,16 @@ Results show the most profitable movies are of the genre Action and Adventure. M
 
 ## Repository Structure
 
-|---ReadMe.md -----------------------> This document<br>  
+|---README.md -----------------------> This document<br>  
 |---Movie-Type-Analysis.ipynb -------> Jupyter Notebook with data analysis<br>
 |---notebook.pdf --------------------> PDF of Jupyter Notebook<br>
-|---Images --------------------------> Images used in this projet<br>
+|---images --------------------------> Images used in this projet<br>
 |---zippedData ----------------------> Folder with data files used for analysis<br>  
 |---presentation.pdf ----------------> PDF of presentation slides<br>
 |---github.pdf ----------------------> PDF of this github page<br>
 
 ## Presentation
+https://github.com/tstrain199/movie-type-analysis/blob/5c8da2c4a6bce50f8d500f6cd3ed6f213d375077/presentation.pdf
 
 ## Images
 Combined Normalized Flight Saftey and Emmissions Ratings
